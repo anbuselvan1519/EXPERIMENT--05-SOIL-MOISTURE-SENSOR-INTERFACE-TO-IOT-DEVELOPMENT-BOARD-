@@ -134,7 +134,7 @@ int adc_val;
 ~~~
 ## Output screen shots on serial monitor   :
  
- ![Screenshot 2024-11-11 094954](https://github.com/user-attachments/assets/ebe754ee-acf7-452a-a2a4-be4897ebc982)
+![image](https://github.com/user-attachments/assets/6851066f-c685-425d-a54e-0f282ced9747)
 
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
